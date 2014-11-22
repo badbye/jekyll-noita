@@ -31,7 +31,7 @@ noita:
       - name: Blog
         url: /blog/
       - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
+        url: https://github.com/badbye
         class: small button
 
 compress_html:
